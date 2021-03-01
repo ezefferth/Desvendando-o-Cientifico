@@ -7,6 +7,10 @@
 }
 .QS{
     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
 }
 
 .Card{
@@ -40,4 +44,8 @@
 }
 .Text-PQFIC{
     margin-top: 6.51rem;
+}
+.Img-Entretextos{
+    width: 85%;
+    height: 50%;
 }

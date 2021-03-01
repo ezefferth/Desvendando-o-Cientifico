@@ -10,7 +10,7 @@ import './Home.css'
 import dezpassos from '../images/dezpassos.jpg'
 import jhe from '../images/jhe.jpeg'
 import zef from '../images/zef.jpeg'
-
+import entretextos from '../images/entretextos.jpg'
 function Home() {
 
     return (
@@ -63,6 +63,7 @@ function Home() {
                                 trimestres. O processo de seleção de bolsistas se encerra no mês de julho para
                                 que as bolsas sejam ativas já em agosto.
                         </p>
+                        <img src={entretextos} className='Img-Entretextos'/>
                         </Col>
                         <Col>
                             <iframe width="560" height="315" className='Video1-OQIC'
@@ -171,7 +172,7 @@ function Home() {
                     //INICIO DE QUEM SOMOS
                 }
                 <Container id='QS' className='QS'>
-                    <CardColumns className-='Card '>
+                    <CardColumns className-='Card ' as='QS'>
                         {
                             //CARD JHEMILLY
                         }
