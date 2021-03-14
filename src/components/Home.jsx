@@ -100,6 +100,10 @@ function Home() {
                             <h1>O QUE É INICIAÇÃO CIENTÍFICA?</h1>
                             <br />
                             <p className='Text'>
+                                A iniciação científica é uma modalidade de pesquisa acadêmica em que você realiza projetos e os inscreve nos programas de pesquisa.
+                                Pode-se dizer que é uma grande experiência e é o seu primeiro com as pesquisas científicas.
+                            </p>
+                            <p className='Text'>
                                 Dentro das universidades, existem departamentos que permitem a
                                 inscrição de projetos em programas de Iniciação Científica, que podem ser
                                 acompanhados de auxílios financeiros, sejam da própria universidade, do
@@ -264,9 +268,8 @@ function Home() {
                                     Ezéfferth C. A Fernandes
                                 </Card.Title>
                                 <Card.Text className='Card-text'>
-                                    Cofundador do Projeto
-                                    Desvendando o Científico e desenvolvedor do site do Projeto Desvendando o
-                                    Científico. Estudante de Engenharia da Computação pela Universidade Federal de Mato Grosso,
+                                    Cofundador  e Desenvolvedor do Projeto
+                                    Desvendando o Científico. Estudante de Engenharia da Computação pela Universidade Federal de Mato Grosso,
                                     desenvolvedor Web e Mobile nas horas vagas, esposo e pai da Isabella!
                                 </Card.Text>
                             </Card.Body>
@@ -420,7 +423,7 @@ function Home() {
                     <h5>
                         <br />
 
-                    Ajude o nosso projeto respondendo esse breve questionário: acesse <a href='https://forms.gle/cGqeu25YzzM6LT3m8' className='form'
+                    Ajude o nosso projeto respondendo esse breve questionário: acesse <a href='https://forms.gle/cGqeu25YzzM6LT3m8'
                             target='_blank'
                         >aqui</a>
                     </h5>
